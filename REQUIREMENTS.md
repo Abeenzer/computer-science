@@ -25,11 +25,11 @@ The subject requirements are based on topics, rather than specific courses, beca
 
 ### Math
 
-- Logic and proofs
-- Discrete structures
-- Graph theory
-- Discrete probability
-- Linear algebra
+- Logic and proofs///
+- Discrete structures///
+- Graph theory///
+- Discrete probability///
+- Linear algebra///
 
 ### Systems
 
